@@ -1,2 +1,3 @@
 # smart-timestamp-summarizer
-A Chrome extension that generates intelligent AI-powered summaries for YouTube video timestamps, helping users capture key moments with smart notes and auto-generated chapters.
+Smart Timestamp Summarizer is a Chrome extension designed to automatically or manually capture timestamps from YouTube videos and generate short, meaningful summaries using AI.
+Perfect for students, developers, learners, researchers, and anyone who wants structured notes from YouTube videos.
